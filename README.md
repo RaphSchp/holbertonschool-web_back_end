@@ -20,6 +20,7 @@ This repository was made to store all directories of my projects, it was made in
 
 * <a href="https://github.com/RaphSchp/holbertonschool-web_back_end/tree/main/python_variable_annotations">python_variable_annotations</a>
 * <a href="https://github.com/RaphSchp/holbertonschool-web_back_end/tree/main/python_async_function">python_async_function</a>
+* <a href="https://github.com/RaphSchp/holbertonschool-web_back_end/tree/main/python_async_comprehension">python_async_comprehension</a>
 
 </details>
 
