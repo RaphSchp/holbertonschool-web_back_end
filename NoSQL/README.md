@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
     <h1> 🔍NoSQL📊</h1>
 </div>
@@ -356,6 +355,3 @@ $
 ## :radio_button: License
 
 This program is distributed under the terms of the Holberton license.
-=======
-<p>
->>>>>>> aa979b3 (add tasks)
